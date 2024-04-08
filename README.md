@@ -6,7 +6,7 @@ API для социальной сети YATUBE, позволяющий публ
 * Python == 3.10.12
 * Django == 3.2.16
 * Django Rest Framework == 3.12.4
-* djangorestframework-simplejwt == 4.7.2
+* Djangorestframework-simplejwt == 4.7.2
 
 ## Описание возможностей:
 - Реализован CRUD для публикаций и комментариев к публикациям.
